@@ -1,0 +1,10 @@
+//input
+UNITED states Of AmERIca
+SPRinG heLPs deveLOpment teaMS everywherE Build SIMPLE, pOrtable,
+fast and flexible JVM-based systems and applications.
+
+
+
+//output
+United States Of America
+Spring Helps Development Teams Everywhere Build Simple, Portable, Fast And Flexible Jvm-based Systems And Applications.

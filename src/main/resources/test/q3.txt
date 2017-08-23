@@ -1,0 +1,23 @@
+//input
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (1,'Smith');
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (2,'Julio|Jones|Falcons');
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (3,'White|Snow');
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (4,'Paint|It|Red');
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (5,'Green|Lantern');
+INSERT INTO `sometbl` (`ID`,`NAME`) VALUES (6,'Brown|bag');
+
+
+//output
+1	Smith
+2	Julio
+2	Jones
+2	Falcons
+3	White
+3	Snow
+4	Paint
+4	It
+4	Red
+5	Green
+5	Lantern
+6	Brown
+6	bag
