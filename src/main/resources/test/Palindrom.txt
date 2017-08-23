@@ -1,0 +1,18 @@
+//input
+"abba"
+ "XyZ"
+ "1221"
+ "asXaa"
+ "a"
+ "bab"
+ "121121"
+
+
+//output
+abba->true
+XyZ->false
+1221->true
+asXaa->false
+a->true
+bab->true
+121121->true
