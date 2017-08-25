@@ -1,3 +1,4 @@
+//input
 Lorem|ipsum|dolor|sit|amet
 consectetur|adipiscing|elit.|Sed|condimentum
 sed|arcu|et|iaculis.|Vestibulum|
@@ -30,3 +31,17 @@ eu|orci.|Sed|at|elit|quis
 turpis|pellentesque|vulputate.|Nunc|vitae
 finibus|arcu,|id|blandit|justo.
 Nulla|in|posuere|elit.|Suspendisse
+
+
+
+//output
+et
+orci
+id
+in
+ipsum
+quis
+elit.
+posuere
+massa
+Mauris
